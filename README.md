@@ -78,4 +78,4 @@ If shortlisted (Stage II: 6 Nov – 4 Dec 2026): install the SDK, run a Hailo zo
 ## Contact
 
 Nana Safo Duker · Kumasi, Ghana  
-Contest contact for this entry: `freshsafoduker3@gmail.com`
+Contest contact for this entry: `safoduker@genehus.bio`
